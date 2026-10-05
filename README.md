@@ -1,5 +1,7 @@
 # HV Reset
 
-Part of **HV World** · https://harshvittori.github.io/hv-reset/
+A product of **HV World** · https://harshvittori.github.io/hv-reset/
 
-This repository is the published website. © 2026 Harsh Goyal. All rights reserved.
+Developed by Harsh Goyal.
+
+© 2026 HV World. All rights reserved.
