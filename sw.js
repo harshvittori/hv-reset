@@ -1,0 +1,2 @@
+/*! HV World · harshvittori.github.io · © 2026 Harsh Goyal. All rights reserved. */
+self.addEventListener("install",()=>self.skipWaiting()),self.addEventListener("activate",e=>e.waitUntil(self.clients.claim())),self.addEventListener("notificationclick",e=>{e.notification.close(),e.waitUntil(self.clients.matchAll({type:"window",includeUncontrolled:!0}).then(e=>{for(const i of e)if(i.url.indexOf("/hv-reset")>=0||i.url.indexOf("index.html")>=0)return i.focus();return self.clients.openWindow("./")}))});
