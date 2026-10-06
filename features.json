@@ -49,7 +49,7 @@
    "id": "proof",
    "name": "Proof photo",
    "area": "Timer",
-   "desc": "Attach a photo or link to a finished target.",
+   "desc": "Attach a photo or link to a finished target, and rate how focused you were.",
    "status": "beta",
    "since": "0.9.0",
    "flag": true,
@@ -260,6 +260,15 @@
    "flag": true,
    "use": "",
    "img": "features/dev.jpg"
+  },
+  {
+   "id": "stats",
+   "name": "Stats tab",
+   "area": "Beta Hub and feedback",
+   "desc": "Testers see how HV Reset is growing: visitors, sign-ins and tasks done. Shown only when the owner turns it on in Team & access.",
+   "status": "beta",
+   "since": "0.10.8",
+   "img": "features/stats.jpg"
   }
  ]
 }
