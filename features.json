@@ -57,6 +57,16 @@
       "img": "features/proof.jpg"
     },
     {
+      "id": "focus-level",
+      "name": "Focus level: Easy, Deep, Extreme",
+      "area": "Focus",
+      "desc": "Pick how strict HV Reset is with you. Deep asks “Still on it?” every 20 min and notes time away; Extreme checks in every 10 min, reminds you 20 s after you leave, allows one pause and needs proof at Done.",
+      "status": "beta",
+      "since": "0.10.24",
+      "img": "features/focus-level.jpg",
+      "new": true
+    },
+    {
       "id": "noti",
       "name": "Timer alerts",
       "area": "Timer",
