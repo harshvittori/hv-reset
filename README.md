@@ -1,6 +1,6 @@
 # HV Reset
 
-A product of **HV World** · https://harshvittori.github.io/hv-reset/
+A product of **HV World** · https://hvworld.haritt.com/hv-reset/
 
 Developed by Harsh Goyal.
 
